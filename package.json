@@ -17,7 +17,7 @@
       "url": "http://127.0.0.1:8080/update/${os}/${arch}",
       "channel": "latest"
     },
-    "appId": "com.github.iffy.electronautoupdateexample",
+    "appId": "com.github.zapjelly.electronautoupdateexample",
     "mac": {
       "category": "your.app.category.type",
       "target": [
